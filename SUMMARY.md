@@ -20,7 +20,7 @@
 
 ## Join
 
-* [🏁 先锋计划](join/pioneers-program.md)
+* [🏁 先锋计划](join/pioneer-program.md)
 * [🔑 准入密钥](join/access-keys.md)
 * [🚀 太空计划](join/spaceship.md)
 
